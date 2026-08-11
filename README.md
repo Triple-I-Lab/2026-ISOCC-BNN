@@ -117,6 +117,6 @@ If you use this repository, please cite:
 
 ## Acknowledgments
 
-This work was supported by the Department of Electrical and Computer Engineering, FAMU-FSU College of Engineering, and the Undergraduate Research Opportunity Program at Florida State University.
+This work was supported by Dr. Tuy Tan of FAMU-FSU College of Engineering's [Intelligent Information Integrity Laboratory](https://www.iiilab.org/).
 
 The `models/` directory is based on [Binary-Neural-Networks-PyTorch-2.x](https://github.com/lucamocerino/Binary-Neural-Networks-PyTorch-2.x) by Luca Mocerino and has been modified for this project's MNIST BNN training workflow.
